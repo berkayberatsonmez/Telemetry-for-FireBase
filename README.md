@@ -1,2 +1,3 @@
 # Telemetry-for-FireBase
-This code written with c#
+I made a Windows form application for Electro Car whose name
+is Telemetry. I used C# and Firebase.
